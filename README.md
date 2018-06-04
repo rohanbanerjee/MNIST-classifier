@@ -1,1 +1,1 @@
-# MNIST-CNN-classifier
+# MNIST-classifier
